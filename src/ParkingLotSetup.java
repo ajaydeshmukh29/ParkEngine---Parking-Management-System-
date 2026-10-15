@@ -1,6 +1,6 @@
 /*
     ParkingLotSetup
-    ---------------
+
     Your original main() builds the parking lot inside itself, so we
     cannot reuse it from the GUI. This class repeats the same setup
     (2 floors, 6 spots each, display boards, gates) WITHOUT touching
