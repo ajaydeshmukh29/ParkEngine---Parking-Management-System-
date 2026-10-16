@@ -1243,7 +1243,7 @@ class program1017
 
         //////////////////////////////////////////
         /// 
-        ///  3 : Create Display Board
+        ///  Create Display Board
         /// 
         /////////////////////////////////////////
         
@@ -1258,8 +1258,8 @@ class program1017
 
         //////////////////////////////////////////
         /// 
-        ///  3 : Create multiple spots
-        /// 
+        ///  4 : Create multiple spots
+        ///
         /////////////////////////////////////////
         
         floor2.addParkingSpot(new BikeSpot(201));
@@ -1273,7 +1273,7 @@ class program1017
 
         //////////////////////////////////////////
         /// 
-        ///  3 : Create Display Board
+        ///  5 : Create Display Board
         /// 
         /////////////////////////////////////////
         
