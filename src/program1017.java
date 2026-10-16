@@ -18,7 +18,9 @@
     Step 12 : EntryGate Class
     Step 13 : ExitGate Class
     Step 14 : ParkingLot Class (Singleton Pattern)
-    Step 15 : Main class (Controller)
+    Step 15 : Main class (Controller) CUI based.
+    Updated Step 15 : I have added GUI using AWT/SWING for better experience
+
 
 */
 
