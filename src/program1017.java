@@ -509,18 +509,6 @@ class ParkingDispalyBoard implements ParkingObserver
         System.out.println();
     }
 }
-
-// We can create new observers for the same subject
-/*
-    class ParkingWebsite implements ParkingObserver
-    {
-        public void update()
-        {   
-        
-        }
-    }
-*/
-
 /////////////////////////////////////////////////////////
 // Step 8 : Create ParkingStrategy Class
 
