@@ -545,13 +545,6 @@ class FirstAvialableParkingStrategy implements ParkingStrategy
     }
 }
 
-/*
-    class NearestAvialableParkingStrategy implements ParkingStrategy
-    {
-
-    }
-*/
-
 /////////////////////////////////////////////////////////
 // Step 9 : Create PricingStrategy Class
 
