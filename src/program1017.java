@@ -848,7 +848,6 @@ class EntryGate
         return new ParkingTicket(vehicle, floor, sopt);
     }
 }
-
 /////////////////////////////////////////////////////////
 // Step 13 : Create ExitGate Class
 
